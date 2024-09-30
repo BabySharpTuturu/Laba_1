@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color_Picker2.0", "Color_Picker2.0.csproj", "{CB4233E0-AD30-4E46-B577-1B0CFFEA57C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB4233E0-AD30-4E46-B577-1B0CFFEA57C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4233E0-AD30-4E46-B577-1B0CFFEA57C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4233E0-AD30-4E46-B577-1B0CFFEA57C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4233E0-AD30-4E46-B577-1B0CFFEA57C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B440776-EC9C-476D-982C-39F0A6595E6B}
+	EndGlobalSection
+EndGlobal
